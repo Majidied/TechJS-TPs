@@ -1,6 +1,7 @@
 # TechJS-TPs - JavaScript Practical Works
 
 ## 📚 Description
+
 This repository contains practical work (TPs) for JavaScript programming, created as part of the GI3 S1 curriculum. Each TP focuses on different JavaScript concepts and includes complete implementations with documentation.
 
 ## 📂 Repository Structure
@@ -26,9 +27,11 @@ TechJS-TPs/
 ## 🎯 Practical Works (TPs)
 
 ### 1. Functions TP - Rock Paper Scissors Game
+
 **Location:** `functions/`
 
 **Concepts Covered:**
+
 - JavaScript functions and parameters
 - Conditional logic and control flow
 - DOM manipulation
@@ -37,6 +40,7 @@ TechJS-TPs/
 - Score tracking and game state management
 
 **Features:**
+
 - Interactive Rock Paper Scissors game
 - Computer opponent with random moves
 - Score tracking (wins, losses, ties)
@@ -50,9 +54,11 @@ TechJS-TPs/
 ---
 
 ### 2. Objects & Loops TP - Todo List Application
+
 **Location:** `objectsLoops/`
 
 **Concepts Covered:**
+
 - JavaScript objects and arrays
 - Array manipulation methods
 - Loops (for loops, forEach)
@@ -62,6 +68,7 @@ TechJS-TPs/
 - Array filtering and deletion
 
 **Features:**
+
 - Add tasks with names and due dates
 - Display tasks in a formatted list
 - Delete individual tasks
@@ -78,6 +85,7 @@ TechJS-TPs/
 ### Running the Projects
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Majidied/TechJS-TPs.git
    cd TechJS-TPs
@@ -88,18 +96,21 @@ TechJS-TPs/
    - Open the HTML file in your web browser
 
 3. **For Functions TP (Rock Paper Scissors):**
+
    ```bash
    # Open in browser
    start functions/functions2-r-s-p.html
    ```
 
 4. **For Objects & Loops TP (Todo List):**
+
    ```bash
    # Open in browser
    start objectsLoops/todo-list.html
    ```
 
 ### No Installation Required
+
 All projects are pure HTML/CSS/JavaScript and run directly in the browser. No dependencies or build tools needed!
 
 ## 💡 Learning Objectives
@@ -125,7 +136,8 @@ By completing these TPs, you will learn:
 
 ## 📝 Author
 
-**Majidied**
+**Mohammed MAJIDI**
+
 - GitHub: [@Majidied](https://github.com/Majidied)
 
 ## 📅 Date
